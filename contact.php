@@ -12,40 +12,6 @@
 	<title>Henintsoa</title>
 </head>
 <body>
-	<!-- ======= Header 
-	<header>
-		<nav class="navbar navbar-expand-lg navbar-expand-md fixed-top navbar-light bg-dark">
-			<div class="container">
-			  <a class="navbar-brand" href="#">Henintsoa</a>
-			  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#list-menu" aria-controls="list-menu" aria-label="Toggle navigation">
-				<span class="bi bi-list"></span>
-			  </button>
-			  <div class="collapse navbar-collapse menu" id="list-menu">
-				<div class="navbar-nav">
-					<a href="index.html" class="nav-link"> Home </a>
-					<a href="about.html" class="nav-link" > About </a>
-					<a href="portfolio.html" class="nav-link"> Portfolio </a>
-					<a href="#" class="nav-link active" aria-current="page"> Contact </a>
-					<button  class="btn btn-light" id="openModalBtn">Download CV</button>
-					<div id="myModal" class="modal">
-						<div class="modal-dialog modal-sm">
-							<div class="modal-content">
-								<div class="modal-body">
-									<p>Souhaiteriez- vous téléchrager mon CV?</p>
-									<div class="modalBtn">
-										<button class="btn btn-info" id="downloadBtn">Confirmer</button>
-										<button  class="btn btn-light" id="cancelBtn">Annuler</button>
-									</div>
-								</div>	
-							</div>
-						</div>
-					</div>
-				</div>
-			  </div>
-			</div>
-		</nav>
-	</header>
-	 End Header ======= -->
  	<?php 
 	 	include ('header.php');
 	?>
@@ -106,5 +72,9 @@
 
 	
 		<!-- =======  End Main======= -->
+	<!-- script-->
+	<script type="text/javascript" src="./assets/js/jquery.js"></script>
+	<script type="text/javascript" src="./assets/js/index.js"></script>
+	<script type="text/javascript" src="./assets/bootstrap/bootstrap5/js/bootstrap.min.js"></script>
 </body>
 </html>

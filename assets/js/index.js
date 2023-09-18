@@ -18,5 +18,5 @@ downloadBtn.onclick = function() {
   window.location.href = 'CV Henintsoa.pdf';
   modal.style.display = "none";
 }
-
+console.log('hello')
 });

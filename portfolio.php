@@ -88,5 +88,9 @@
 		</div>
 	</div>
 		<!-- ======= End Main ======= -->	
+		<!-- script-->
+	<script type="text/javascript" src="./assets/js/jquery.js"></script>
+	<script type="text/javascript" src="./assets/js/index.js"></script>
+	<script type="text/javascript" src="./assets/bootstrap/bootstrap5/js/bootstrap.min.js"></script>
 </body>
 </html>

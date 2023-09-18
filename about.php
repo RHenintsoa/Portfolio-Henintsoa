@@ -8,10 +8,7 @@
 	<!-- css-->
 	<link rel="stylesheet" type="text/css" href="./assets/bootstrap/bootstrap5/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="./assets/css/style.css">
-	<!-- script-->
-	<script type="text/javascript" src="./assets/js/jquery.js"></script>
-	<script type="text/javascript" src="./assets/js/index.js"></script>
-	<script type="text/javascript" src="./assets/bootstrap/bootstrap5/js/bootstrap.min.js"></script>
+	
 	<!-- bootstrap icons files-->
 	<link rel="stylesheet" type="text/css" href="./assets/bootstrap/bootstrap-icons/bootstrap-icons.css">
 
@@ -19,12 +16,9 @@
 </head>
 
 <body>
-
  	<?php 
 	 	include ('header.php');
 	?>
-
-
 	<div class="container main">
 		<!-- =======  About ======= -->
 		<div class="row">
@@ -136,6 +130,10 @@
 			<!-- ======= End soft skills ======= -->
 		</div>
 	</div>
+	<!-- script-->
+	<script type="text/javascript" src="./assets/js/jquery.js"></script>
+	<script type="text/javascript" src="./assets/js/index.js"></script>
+	<script type="text/javascript" src="./assets/bootstrap/bootstrap5/js/bootstrap.min.js"></script>
 </body>
 
 </html>

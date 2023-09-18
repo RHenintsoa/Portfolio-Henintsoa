@@ -22,11 +22,11 @@
 			  </button>
 			  <div class="collapse navbar-collapse menu" id="list-menu">
 				<div class="navbar-nav">
-					<a href="index.html" class="nav-link"> Home </a>
-					<a href="about.php" class="nav-link" > About </a>
+					<a href="index.php" class="nav-link"> Acceuil </a>
+					<a href="about.php" class="nav-link" > À mon propos </a>
 					<a href="portfolio.php" class="nav-link"> Portfolio </a>
 					<a href="contact.php" class="nav-link"> Contact </a>
-					<button  class="btn btn-light" id="openModalBtn">Download CV</button>
+					<button  class="btn btn-light" id="openModalBtn">Télécharger CV</button>
 					<div id="myModal" class="modal">
 						<div class="modal-dialog modal-sm">
 							<div class="modal-content">

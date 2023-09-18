@@ -186,6 +186,21 @@ body{
 	color: #E9ECEF!important;
 }
 
+.modalBtn{
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 5%;
+}
+#downloadBtn{
+	width: 45%;
+	border: solid 1px #00aff0;
+	
+}
+#cancelBtn{
+	width: 45%;
+	border: solid 1px #9fa2a5;
+
+}
 .main
 {
 	margin-top: 100px;

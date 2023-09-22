@@ -23,17 +23,17 @@
 		<!-- =======  About ======= -->
 		<div class="row">
 			<section class="title">
-				<h2>ABOUT</h2>
-				<label>Learn more about me</label>
+				<h2>À mon propos</h2>
+				<label>Qui suis-je ?</label>
 			</section>
 		</div>
 
 		<div class="row">
 			<div class="col-lg-8 col-md-12 col-xs-12" id="profil-description">
-				<h3 class="text-uppercase"> web developer intern</h3>
+				<h3 class="text-uppercase"> Passionnée par le développement web </h3>
 
 				<p>
-					Je suis Henintsoa, une personne passionnée et motivée désireuse de se lancer dans une aventure enrichissante en tant que stagiaire en développement web. 
+					Je suis Henintsoa, une personne motivée, désireuse de se lancer dans une aventure enrichissante en tant que stagiaire en développement web. 
 					Je m'épanouis dans des environnements évolutifs et collaboratifs, où les échanges entre les équipes sont encouragés et l'innovation est au cœur de l'objectif. Je serais ravie à mettre en pratique mes compétences dans la réalisation des projets, surtout d’apprendre assidûment et d’élargir mes capacités afin de pouvoir se mettre à jour à l’évolution constante de la nouvelle technologie.
 
 				</p>
@@ -52,7 +52,7 @@
 			</section>
 		</div>
 
-		<div class="row">
+		<div class="row text-center">
 			<div class="col-lg-4 col-md-8 col-xs-12 ">
 				<div class="logo-box">
 					<img src="./assets/img/langage/html.png" alt="html">
@@ -71,17 +71,17 @@
 
 		</div>
 		<div class="row">
-			<div class="col-lg-4 col-md-8 col-xs-12 offset-md-2">
+			<div class="col-lg-4 col-md-8 col-xs-12 ">
 				<div class="logo-box">
 					<img src="./assets/img/langage/javascript.png" alt="javascript">
 				</div>
 			</div>
-			<div class="col-lg-4 col-md-8 col-xs-12 offset-md-2">
+			<div class="col-lg-4 col-md-8 col-xs-12 ">
 				<div class="logo-box">
 					<img src="./assets/img/langage/php.png" alt="php">
 				</div>
 			</div>
-			<div class="col-lg-4 col-md-8 col-xs-12 offset-md-2">
+			<div class="col-lg-4 col-md-8 col-xs-12 ">
 				<div class="logo-box">
 					<img src="./assets/img/langage/mysql.png" alt="mysql">
 				</div>
@@ -89,7 +89,7 @@
 
 		</div>
 		<div class="row">
-			<div class="col-lg-4 col-md-8 col-xs-12 offset-md-2">
+			<div class="col-lg-4 col-md-8 col-xs-12 ">
 				<div class="logo-box">
 					<img src="./assets/img/langage/wordpress.png" alt="mysql">
 				</div>
